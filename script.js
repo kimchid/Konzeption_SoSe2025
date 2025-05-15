@@ -1,8 +1,8 @@
 function redirectToRandomPage() {
   const pages = [
-    "seite1/index.html",
-    "seite2/index.html",
-    "seite3/index.html"
+    "seite1.html",
+    "seite2.html",
+    "seite3.html"
   ];
 
   const randomPage = pages[Math.floor(Math.random() * pages.length)];
