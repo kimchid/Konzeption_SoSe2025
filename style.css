@@ -10,7 +10,8 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: linear-gradient(to right, #f9f9f9, #e3e3e3);
+  background: url('Bilder/Panda.jpg') no-repeat center center;
+  background-size: cover;
   padding: 20px;
 }
 
