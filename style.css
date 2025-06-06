@@ -10,7 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: url('Bilder/Panda.jpg') no-repeat center center;
+  background: url('Bilder/Panda.gif') no-repeat center center;
   background-size: cover;
   padding: 20px;
 }
