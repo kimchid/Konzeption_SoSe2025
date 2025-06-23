@@ -10,7 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: url('Bilder/Panda.gif') no-repeat center center;
+  background: url('Bilder/Drache.png') no-repeat center center;
   background-size: cover;
   padding: 20px;
 }
@@ -68,5 +68,5 @@ audio {
   width: 100%;
   outline: none;
   border-radius: 12px;
-  filter: grayscale(20%) brightness(1.05); 
+  filter: grayscale(20%) brightness(1.05);
 }
